@@ -6,8 +6,7 @@ Within this directory you can find all of the scripts used to build ViNE, as wel
 
 ## Citation
 
-ViNE and our analyses of ViNE are described in the following publication:
-XXX.
+ViNE and our analyses of ViNE will soon be described in a preprint on bioRxiv.
 
 The  *M. truncatula* model used as a starting point in this work was described in the following publication:
 Pfau T, Christian M, Masakapalli SK, Sweetlove, LJ, Poolman MG, Ebenhöh O (2018) [The intertwined metabolism during symbiotic nitrogen fixation elucidated by metabolic modelling](https://www.nature.com/articles/s41598-018-30884-x). Scientific Reports. 8:12504.
