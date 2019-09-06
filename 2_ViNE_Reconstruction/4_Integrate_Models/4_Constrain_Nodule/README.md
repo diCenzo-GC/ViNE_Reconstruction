@@ -1,0 +1,2 @@
+RNA-seq data is from:
+Roux B, Rodde N, Jardinaud M-F, Timmers T, Sauviac L, Cottret L, Carrère S, Sallet E, Courcelle E, Moreau S, Debellé F, Capela D, de Carvalho-Niebel F, Gouzy J, Bruand C, Gamas P. 2014. [An integrated analysis of plant and bacterial gene expression in symbiotic root nodules using laser-capture microdissection coupled to RNA sequencing](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.12442). Plant J 77:817–837.
