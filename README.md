@@ -4,7 +4,7 @@ ViNE is a metabolic model of a nodulated legume, consisting of the interacting p
 
 Within this directory you can find all of the scripts used to build ViNE, as well as the scripts used to build an updated metabolic model of free-living *S. meliloti*. In addition, all scripts for the analysis of ViNE in our associated manuscript are provided.
 
-## Citation
+## Citations
 
 ViNE and our analyses of ViNE will soon be described in a preprint on bioRxiv.
 
@@ -20,12 +20,12 @@ Roux B, Rodde H, Jardinaud M-F, Timmers T, Sauviac L, Cottret L, Carrère S, Sal
 
 If you wish to run our scripts to build ViNE and/or to analyze ViNE, the following dependencies are required. In all cases, the versions that we use are listed.
 * [MATLAB](https://www.mathworks.com/products/matlab.html) R2016b
-* [libSBML](sourceforge.net/projects/sbml/files/libsbml) version 5.13.0
-* [SBMLToolbox](sourceforge.net/projects/sbml/files/SBMLToolbox) version 4.1.0
-* [COBRA Toolbox](opencobra.github.io/cobratoolbox/stable) commit 9b10fa1
-* [Tn-Core Toolbox](github.com/diCenzo-GC/Tn-Core) version 2.2
-* [TIGER Toolbox](csbl.bitbucket.io/tiger/download.html) version 1.2-beta
-* [FASTCORE](uni.lu/forschung/fstc/life_sciences_research_unit/research_areas/systems_biology/software/fastcore) version 1.0
+* [libSBML](https://www.sourceforge.net/projects/sbml/files/libsbml) version 5.13.0
+* [SBMLToolbox](https://www.sourceforge.net/projects/sbml/files/SBMLToolbox) version 4.1.0
+* [COBRA Toolbox](https://www.opencobra.github.io/cobratoolbox/stable) commit 9b10fa1
+* [Tn-Core Toolbox](https://www.github.com/diCenzo-GC/Tn-Core) version 2.2
+* [TIGER Toolbox](https://www.csbl.bitbucket.io/tiger/download.html) version 1.2-beta
+* [FASTCORE](https://www.uni.lu/forschung/fstc/life_sciences_research_unit/research_areas/systems_biology/software/fastcore) version 1.0
 * [iLOG CPLEX Studio](www.ibm.com/products/ilog-cplex-optimization-studio) version 12.7.1
 
 ### Input Files
