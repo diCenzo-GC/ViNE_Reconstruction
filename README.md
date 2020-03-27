@@ -22,11 +22,11 @@ If you wish to run our scripts to build ViNE and/or to analyze ViNE, the followi
 * [MATLAB](https://www.mathworks.com/products/matlab.html) R2016b
 * [libSBML](https://www.sourceforge.net/projects/sbml/files/libsbml) version 5.13.0
 * [SBMLToolbox](https://www.sourceforge.net/projects/sbml/files/SBMLToolbox) version 4.1.0
-* [COBRA Toolbox](https://www.opencobra.github.io/cobratoolbox/stable) commit 9b10fa1
+* [COBRA Toolbox](https://opencobra.github.io/cobratoolbox/stable/) commit 9b10fa1
 * [Tn-Core Toolbox](https://www.github.com/diCenzo-GC/Tn-Core) version 2.2
-* [TIGER Toolbox](https://www.csbl.bitbucket.io/tiger/download.html) version 1.2-beta
+* [TIGER Toolbox](https://csbl.bitbucket.io/tiger/download.html) version 1.2-beta
 * [FASTCORE](https://www.uni.lu/forschung/fstc/life_sciences_research_unit/research_areas/systems_biology/software/fastcore) version 1.0
-* [iLOG CPLEX Studio](www.ibm.com/products/ilog-cplex-optimization-studio) version 12.7.1
+* [iLOG CPLEX Studio](https://www.ibm.com/products/ilog-cplex-optimization-studio) version 12.7.1
 
 ### Input Files
 
