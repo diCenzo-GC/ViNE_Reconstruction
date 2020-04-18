@@ -9,12 +9,10 @@ Within this directory you can find all of the scripts used to build ViNE, as wel
 ViNE and our analyses of ViNE are described in the following preprint:\
 diCenzo GC, Tesi M, Pfau T, Mengoni A, Fondi M (2019) [A Virtual Nodule Environment (ViNE) for modelling the inter-kingdom metabolic integration during symbiotic nitrogen fixation](https://www.biorxiv.org/content/10.1101/765271v1). bioRxiv. doi:10.1101/765271
 
-The  *M. truncatula* model used as a starting point in this work was described in the following publication:
-
+The  *M. truncatula* model used as a starting point in this work was described in the following publication:\
 Pfau T, Christian M, Masakapalli SK, Sweetlove, LJ, Poolman MG, Ebenhöh O (2018) [The intertwined metabolism during symbiotic nitrogen fixation elucidated by metabolic modelling](https://www.nature.com/articles/s41598-018-30884-x). Scientific Reports. 8:12504.
 
-The RNA-seq data used to constrain the nodule reaction space was described in the following publication:
-
+The RNA-seq data used to constrain the nodule reaction space was described in the following publication:\
 Roux B, Rodde H, Jardinaud M-F, Timmers T, Sauviac L, Cottret L, Carrère S, Sallet E, Courcelle E, Moreau S, Debellé F, Capela D, de Carvalho-Niebel F, Gouzy J, Bruand C, Gamas P (2014) [An integrated analysis of plant and bacterial gene expression in symbiotic root nodules using laser‐capture microdissection coupled to RNA sequencing](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.12442). The Plant Journal. 77:817-837.
 
 ## Required Inputs
