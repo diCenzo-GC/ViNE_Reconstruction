@@ -6,8 +6,8 @@ Within this directory you can find all of the scripts used to build ViNE, as wel
 
 ## Citations
 
-Construction of ViNE and our analyses of ViNE, as well as the construction of the updated *S. meliloti* model, are described in the following preprint:\
-diCenzo GC, Tesi M, Pfau T, Mengoni A, Fondi M (2019) [A Virtual Nodule Environment (ViNE) for modelling the inter-kingdom metabolic integration during symbiotic nitrogen fixation](https://www.biorxiv.org/content/10.1101/765271v1). bioRxiv. doi:10.1101/765271
+Construction of ViNE and our analyses of ViNE, as well as the construction of the updated *S. meliloti* model, are described in the following publication:\
+diCenzo GC, Tesi M, Pfau T, Mengoni A, Fondi M (2020) [Genome-scale metabolic reconstruction of the symbiosis between a leguminous plant and a nitrogen-fixing bacterium](https://www.nature.com/articles/s41467-020-16484-2). Nature Communications. 11: 2574.
 
 The  *M. truncatula* model used as a starting point in this work was described in the following publication:\
 Pfau T, Christian M, Masakapalli SK, Sweetlove, LJ, Poolman MG, Ebenhöh O (2018) [The intertwined metabolism during symbiotic nitrogen fixation elucidated by metabolic modelling](https://www.nature.com/articles/s41598-018-30884-x). Scientific Reports. 8:12504.
